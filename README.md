@@ -36,4 +36,8 @@ This document provides details about the training process and performance metric
 
 
 # Results
-[alt text] {https://raw.githubusercontent.com/nevernever69/DiT-Layout_Detection/refs/heads/main/results/1.png}
+![alt text](https://raw.githubusercontent.com/nevernever69/DiT-Layout_Detection/refs/heads/main/results/1.png)
+![alt text](https://github.com/nevernever69/DiT-Layout_Detection/blob/main/results/2.png?raw=true)
+![alt text](https://github.com/nevernever69/DiT-Layout_Detection/blob/main/results/3.png?raw=true)
+![image](https://github.com/user-attachments/assets/b6f998b5-2564-4624-967b-ec70169b37f1)
+
